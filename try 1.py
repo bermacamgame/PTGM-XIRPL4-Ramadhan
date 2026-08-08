@@ -1,4 +1,4 @@
-nm = "Ramadhan Abdul Rojak"
+nm = "Ramadhan"
 hb = "Main game"
 age = 16
 gndr = True
